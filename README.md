@@ -1,2 +1,2 @@
-# mt8_mini070
-Malotraktor MT-8 Mini 070
+# MT8-Mini070
+Zbierka materiálov k malotraktoru MT8-Mini070
